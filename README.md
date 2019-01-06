@@ -1,3 +1,3 @@
 ## Video Player built with React Hooks
 
-![Video Player](screenshot.jpg?raw=true)
+![Video Player](videoplayer.jpg)
